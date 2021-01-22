@@ -1,8 +1,6 @@
 A list with words with inappropriate language for children in Icelandic. 
 
-Used for filtering the scripts in Samrómur.
-
-
+Used for filtering the scripts in Samrómur. This is in no way a perfect list of inappropriate words. I like to describe this as the shotgun approach meaning that we will catch a lot of sentences that are not inappropriate along with hitting the target.
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
